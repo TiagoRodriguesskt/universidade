@@ -1,0 +1,20 @@
+body {
+    background-image: url(./imagens/fundo.png);
+}
+
+.td {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.centro {
+    text-align: center;
+}
+
+.page {
+    align: center; 
+}
+
+a:link {
+    text-decoration:none;
+}
